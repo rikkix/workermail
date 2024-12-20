@@ -1,5 +1,7 @@
 # WorkerMail
 
+![](img/screenshot.png)
+
 ## Get started
 
 1. Sign up for [Cloudflare Workers](https://workers.dev). The free tier is more than enough for most use cases.
